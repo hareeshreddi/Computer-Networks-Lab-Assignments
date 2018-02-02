@@ -1,0 +1,146 @@
+Input: cricbuzz.com
+canonical name: cricbuzz.com
+Registered Domain: cricbuzz.com
+
+TraceRoute from Network-Tools.com to 161.202.24.162 [cricbuzz.com]
+Hop	(ms)	(ms)	(ms)		     IP Address	Host name
+1 	  0 	  0 	  0 	     67.219.148.9	 dfw-c1-vl0990.cpgventures.com  
+2 	  0 	  0 	  0 	     184.105.25.73	 v509.core1.dal1.he.net  
+3 	  0 	  0 	  0 	     206.53.202.9	 de-cix.dfw.us.ibm.com  
+4 	  2 	  Timed out 	  Timed out 	     50.97.17.54	 ae6.cbs01.eq01.dal03.networklayer.com  
+5 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+6 	  29 	  Timed out 	  28 	     169.45.18.7	 ae2.cbs01.cs01.lax01.networklayer.com  
+7 	  187 	  186 	  186 	     169.45.19.222	 de.13.2da9.ip4.static.sl-reverse.com  
+8 	  209 	  206 	  206 	     169.45.19.189	 ae0.cbs02.eq01.sng02.networklayer.com  
+9 	  207 	  206 	  206 	     169.45.19.177	 b1.13.2da9.ip4.static.sl-reverse.com  
+10 	  206 	  207 	  207 	     50.97.18.197	 ae5.dar01.sng01.networklayer.com  
+11 	  206 	  206 	  206 	     174.133.118.149	 95.76.85ae.ip4.static.sl-reverse.com  
+12 	  206 	  206 	  206 	     161.202.24.162	 a2.18.caa1.ip4.static.sl-reverse.com  
+
+Trace complete
+
+
+Input: naukri.com
+canonical name: naukri.com
+Registered Domain: naukri.com
+
+TraceRoute from Network-Tools.com to 54.251.99.37 [naukri.com]
+Hop	(ms)	(ms)	(ms)		     IP Address	Host name
+1 	  12 	  0 	  0 	     184.105.25.73	 v509.core1.dal1.he.net  
+2 	  19 	  19 	  22 	     184.105.81.173	 100ge4-2.core1.phx2.he.net  
+3 	  37 	  27 	  28 	     184.105.81.177	 100ge11-2.core1.lax2.he.net  
+4 	  139 	  135 	  138 	     184.105.65.10	 100ge13-1.core1.tyo1.he.net  
+5 	  174 	  175 	  175 	     184.105.64.66	 10ge11-5.core1.sel1.he.net  
+6 	  165 	  165 	  165 	     192.145.251.159	  -  
+7 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+8 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+9 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+10 	  169 	  169 	  168 	     52.95.30.50	  -  
+11 	  250 	  237 	  236 	     52.93.128.16	  -  
+12 	  235 	  236 	  235 	     52.93.8.18	  -  
+13 	  238 	  235 	  235 	     52.93.8.17	  -  
+14 	  236 	  236 	  236 	     52.93.8.16	  -  
+15 	  235 	  235 	  235 	     52.93.8.27	  -  
+16 	  235 	  235 	  235 	     203.83.223.23	  -  
+17 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+18 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+19 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+20 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+21 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+22 	  235 	  235 	  235 	     54.251.99.37	 ec2-54-251-99-37.ap-southeast-1.compute.amazonaws.com  
+
+Trace complete
+
+
+
+Input: amazon.com
+canonical name: amazon.com
+Registered Domain: amazon.com
+
+TraceRoute from Network-Tools.com to 176.32.98.166 [amazon.com]
+Hop	(ms)	(ms)	(ms)		     IP Address	Host name
+1 	  1 	  0 	  0 	     207.86.208.17	  -  
+2 	  37 	  17 	  29 	     207.88.13.122	 vb2000d1.rar3.dallas-tx.us.xo.net  
+3 	  0 	  0 	  0 	     207.88.14.189	 207.88.14.189.ptr.us.xo.net  
+4 	  0 	  0 	  0 	     52.95.217.244	  -  
+5 	  12 	  19 	  18 	     176.32.125.176	  -  
+6 	  0 	  0 	  0 	     176.32.125.183	  -  
+7 	  35 	  38 	  39 	     54.239.46.8	  -  
+8 	  34 	  34 	  34 	     178.236.3.31	  -  
+9 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+10 	  54 	  56 	  55 	     54.239.111.182	  -  
+11 	  34 	  34 	  33 	     54.239.109.179	  -  
+12 	  76 	  54 	  48 	     52.93.25.30	  -  
+13 	  35 	  34 	  35 	     205.251.244.27	  -  
+14 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+15 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+16 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+17 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+18 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+19 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+20 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+21 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+22 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+23 	  35 	  36 	  35 	     205.251.248.45	  -  
+24 	  33 	  35 	  34 	     176.32.98.166	  -  
+
+Trace complete
+
+
+Input: hackerearth.com
+canonical name: hackerearth.com
+Registered Domain: hackerearth.com
+
+TraceRoute from Network-Tools.com to 52.220.103.141 [hackerearth.com]
+Hop	(ms)	(ms)	(ms)		     IP Address	Host name
+1 	  8 	  12 	  0 	     184.105.25.73	 v509.core1.dal1.he.net  
+2 	  27 	  26 	  24 	     184.105.81.173	 100ge4-2.core1.phx2.he.net  
+3 	  30 	  28 	  28 	     184.105.81.177	 100ge11-2.core1.lax2.he.net  
+4 	  138 	  134 	  140 	     184.105.65.10	 100ge13-1.core1.tyo1.he.net  
+5 	  173 	  174 	  174 	     184.105.64.66	 10ge11-5.core1.sel1.he.net  
+6 	  171 	  166 	  167 	     192.145.251.159	  -  
+7 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+8 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+9 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+10 	  166 	  179 	  166 	     52.95.30.30	  -  
+11 	  233 	  277 	  233 	     54.239.43.114	  -  
+12 	  234 	  233 	  234 	     52.93.8.174	  -  
+13 	  234 	  235 	  233 	     52.93.8.171	  -  
+14 	  234 	  235 	  243 	     52.93.8.82	  -  
+15 	  233 	  233 	  233 	     52.93.8.93	  -  
+16 	  232 	  233 	  234 	     52.93.10.73	  -  
+17 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+18 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+19 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+20 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+21 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+22 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+23 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+24 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+25 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+26 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+27 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+28 	  Timed out 	  Timed out 	  Timed out 	     	  -  
+
+Trace complete
+
+Input: yahoo.com
+canonical name: yahoo.com
+Registered Domain: yahoo.com
+
+TraceRoute from Network-Tools.com to 98.139.180.180 [yahoo.com]
+Hop	(ms)	(ms)	(ms)		     IP Address	Host name
+1 	  0 	  0 	  0 	     67.219.148.9	 dfw-c1-vl0990.cpgventures.com  
+2 	  2 	  0 	  0 	     184.105.25.73	 v509.core1.dal1.he.net  
+3 	  0 	  0 	  0 	     206.53.202.10	 decix1.dax.yahoo.com  
+4 	  26 	  25 	  24 	     216.115.96.95	 UNKNOWN-216-115-96-X.yahoo.com  
+5 	  37 	  36 	  36 	     216.115.101.199	 ae-9.pat2.bfz.yahoo.com  
+6 	  48 	  37 	  38 	     74.6.227.147	 et-19-1-0.msr1.bf2.yahoo.com  
+7 	  37 	  37 	  37 	     74.6.122.55	 UNKNOWN-74-6-122-X.yahoo.com  
+8 	  39 	  37 	  39 	     72.30.22.11	 po7.fab6-1-gdc.bf1.yahoo.com  
+9 	  52 	  37 	  38 	     98.139.129.227	 po-14.bas2-7-prd.bf1.yahoo.com  
+10 	  42 	  39 	  38 	     98.139.180.180	 media-router-fp1.prod.media.vip.bf1.yahoo.com  
+
+Trace complete
+.................................values at 5pm..........................
+

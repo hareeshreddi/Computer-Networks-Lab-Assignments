@@ -1,0 +1,98 @@
+PING 161.202.24.162 (161.202.24.162) 56(84) bytes of data.
+
+--- 161.202.24.162 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19010ms
+rtt min/avg/max/mdev = 250.331/250.511/251.138/0.506 ms
+
+PING naukri.com (54.251.99.37) 56(84) bytes of data.
+
+--- naukri.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19012ms
+rtt min/avg/max/mdev = 248.474/248.569/248.858/0.673 ms
+
+PING amazon.com (176.32.103.205) 56(84) bytes of data.
+
+--- amazon.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19010ms
+rtt min/avg/max/mdev = 11.309/11.556/14.815/0.749 ms
+
+PING hackerearth.com (52.220.103.141) 56(84) bytes of data.
+
+--- hackerearth.com ping statistics ---
+20 packets transmitted, 0 received, 100% packet loss, time 19000ms
+
+
+PING yahoo.com (98.138.252.38) 56(84) bytes of data.
+
+--- yahoo.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9007ms
+rtt min/avg/max/mdev = 35.611/35.997/37.021/0.507 ms
+
+.....................upto 5 AM .........................................
+
+ING 161.202.24.162 (161.202.24.162) 56(84) bytes of data.
+
+--- 161.202.24.162 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19006ms
+rtt min/avg/max/mdev = 251.098/251.206/251.293/0.692 ms
+
+PING 54.251.99.37 (54.251.99.37) 56(84) bytes of data.
+
+--- 54.251.99.37 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19013ms
+rtt min/avg/max/mdev = 249.502/249.586/249.868/0.529 ms
+
+PING 176.32.103.205 (176.32.103.205) 56(84) bytes of data.
+
+--- 176.32.103.205 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19011ms
+rtt min/avg/max/mdev = 12.524/12.575/12.626/0.148 ms
+
+PING 52.220.103.141 (52.220.103.141) 56(84) bytes of data.
+
+--- 52.220.103.141 ping statistics ---
+20 packets transmitted, 0 received, 100% packet loss, time 19005ms
+
+PING 98.138.252.38 (98.138.252.38) 56(84) bytes of data.
+
+--- 98.138.252.38 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19016ms
+rtt min/avg/max/mdev = 38.799/38.907/39.369/0.243 ms
+
+............................upto 2 pm....................................
+
+PING 161.202.24.162 (161.202.24.162) 56(84) bytes of data.
+
+--- 161.202.24.162 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19006ms
+rtt min/avg/max/mdev = 250.877/251.079/252.920/0.701 ms
+
+PING 54.251.99.37 (54.251.99.37) 56(84) bytes of data.
+
+--- 54.251.99.37 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19006ms
+rtt min/avg/max/mdev = 250.092/250.145/250.213/0.613 ms
+
+PING 176.32.103.205 (176.32.103.205) 56(84) bytes of data.
+
+--- 176.32.103.205 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19010ms
+rtt min/avg/max/mdev = 12.350/12.420/12.643/0.109 ms
+
+PING 52.220.103.141 (52.220.103.141) 56(84) bytes of data.
+
+--- 52.220.103.141 ping statistics ---
+20 packets transmitted, 0 received, 100% packet loss, time 19009ms
+
+PING 98.138.252.38 (98.138.252.38) 56(84) bytes of data.
+
+--- 98.138.252.38 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19006ms
+rtt min/avg/max/mdev = 37.098/37.293/38.022/0.256 ms
+
+PING codechef.com (54.210.252.68) 56(84) bytes of data.
+
+--- codechef.com ping statistics ---
+20 packets transmitted, 0 received, 100% packet loss, time 19011ms
+
+.................upto 5 pm

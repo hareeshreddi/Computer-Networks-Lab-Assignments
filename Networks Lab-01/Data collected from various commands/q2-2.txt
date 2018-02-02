@@ -1,0 +1,36 @@
+PING 161.202.24.162 (161.202.24.162) 56(84) bytes of data.
+
+--- 161.202.24.162 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 18989ms
+rtt min/avg/max/mdev = 251.131/251.407/254.481/0.782 ms
+
+PING 161.202.24.162 (161.202.24.162) 120(148) bytes of data.
+
+--- 161.202.24.162 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19008ms
+rtt min/avg/max/mdev = 251.469/251.566/252.009/0.583 ms
+
+PING 161.202.24.162 (161.202.24.162) 248(276) bytes of data.
+
+--- 161.202.24.162 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19012ms
+rtt min/avg/max/mdev = 251.570/252.396/252.951/0.330 ms
+
+PING 161.202.24.162 (161.202.24.162) 504(532) bytes of data.
+
+--- 161.202.24.162 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19016ms
+rtt min/avg/max/mdev = 253.702/254.957/276.244/4.897 ms
+
+PING 161.202.24.162 (161.202.24.162) 1016(1044) bytes of data.
+
+--- 161.202.24.162 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19009ms
+rtt min/avg/max/mdev = 256.830/256.997/257.258/0.672 ms
+
+PING 161.202.24.162 (161.202.24.162) 2040(2068) bytes of data.
+
+--- 161.202.24.162 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 18993ms
+rtt min/avg/max/mdev = 262.370/262.441/262.550/0.049 ms
+

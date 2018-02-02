@@ -1,0 +1,19 @@
+hareesh@hareesh-Inspiron-5558:~$ ifconfig
+enp7s0    Link encap:Ethernet  HWaddr 20:47:47:bb:f5:17  
+          inet addr:10.10.2.9  Bcast:10.10.63.255  Mask:255.255.192.0
+          inet6 addr: fe80::5763:d3:21e7:bde4/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:4716156 errors:0 dropped:2172 overruns:0 frame:0
+          TX packets:1514898 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:3520973242 (3.5 GB)  TX bytes:159298313 (159.2 MB)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:5783 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:5783 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1 
+          RX bytes:356009 (356.0 KB)  TX bytes:356009 (356.0 KB)
+
